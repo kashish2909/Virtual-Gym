@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DemoScene.unity
+    guid: 62e44ba4c8f8e4f2399c3fc888e91e1b
+  - enabled: 1
+    path: Assets/Scenes/Squat.unity
+    guid: c8b7f2e9c62fcf840bd3244a70086867
+  - enabled: 1
+    path: Assets/Scenes/BenchPress.unity
+    guid: 57589dc30313b0946887ec433ebef318
+  - enabled: 1
+    path: Assets/Scenes/Onboarding_VRTK_assets.unity
+    guid: 9677f3055659a6343a5b2d679506b46e
+  - enabled: 1
+    path: Assets/Scenes/Preacher.unity
+    guid: 615ce8b3c20a88847b96e870e319be2d
+  - enabled: 1
+    path: Assets/Scenes/LegPress.unity
+    guid: 40fdcd1b616cec04382eadc34e2cdb4c
+  m_configObjects: {}

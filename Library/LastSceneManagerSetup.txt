@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Onboarding_VRTK_assets.unity
+  isLoaded: 1
+  isActive: 1
